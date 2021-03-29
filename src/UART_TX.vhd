@@ -1,10 +1,10 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: 
+-- Engineer: Osman Ahmed
 -- 
 -- Create Date: 19.09.2020 12:46:31
 -- Design Name: 
--- Module Name: BAUD_RATE_GEN - Behavioral
+-- Module Name: UART_TX
 -- Project Name: 
 -- Target Devices: 
 -- Tool Versions: 
