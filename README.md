@@ -9,6 +9,8 @@ Block Diagram:
 UART controller which has the following specs: 1 start bit, 8 data bits 1 stop bit and no parity. Baud rate can be set via a generic in UART top level 'baudrate_factor'.
 The design also has a command module where it can be used to control FPGA peripherals such as LEDs, further commands can also be added. 
 
+FPGA board that im using: Arty S7-50 (XC7S50-1CSGA324C).
+
 
 
 
